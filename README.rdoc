@@ -3,4 +3,3 @@
 Describe your project here
 
 :include:drop_logs.rdoc
-

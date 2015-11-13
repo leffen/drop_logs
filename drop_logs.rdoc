@@ -1,5 +1,10 @@
-= drop_logs
+= Drop Logs
 
-Generate this with
-    drop_logs rdoc
-After you have described your command line interface
+Easy to use utility for checking zipped logfiles and then moving them to logstash import directory with correct extension
+
+Listen details at :
+
+https://github.com/guard/listen/wiki/Increasing-the-amount-of-inotify-watchers
+
+
+
