@@ -1,0 +1,5 @@
+= drop_logs
+
+Generate this with
+    drop_logs rdoc
+After you have described your command line interface
